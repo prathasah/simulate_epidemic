@@ -65,7 +65,8 @@ def infected_neighbors(G, node, infected_list):
 if __name__ == "__main__":
     """Main function to mimic C++ behavior. This function requires the file
     random-modular-network-generator.py."""
-    #try:  
+    #try:
+  
     ##################################################################
     #Generate graph
     print "Generating graph....." 
